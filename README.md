@@ -1,5 +1,7 @@
 <div align="center">
 
+**中文** · [English](./README.en.md)
+
 # 🧰 Khazix Skills
 
 #### 我自己每天在用的一些 AI 技能和 Prompt，都开源在这里
